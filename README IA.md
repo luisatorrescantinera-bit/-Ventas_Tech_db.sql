@@ -102,6 +102,6 @@ Con estos datos, todos los clientes y todos los productos tienen al menos una ve
 3. Cargá la consulta con `INNER JOIN` como fuente principal o las tablas por separado.
 4. Creá `Dim_Fechas` con DAX y definí las relaciones del modelo.
 
-## Autor
+## LUISA TORRES
 
 Proyecto realizado como práctica del curso de SQL con Power BI.
